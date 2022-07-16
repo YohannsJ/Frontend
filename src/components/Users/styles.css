@@ -1,0 +1,80 @@
+
+body {
+    background-color: #E6E5E3;
+    text-align: center;
+    /* text-align: center; */
+}
+
+.puff{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabla{
+    margin-top: 1rem;;
+}
+.imgU{
+    text-align: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    text-align:left;
+    text-transform: uppercase;
+    font-family: 'colibri';
+    background-color: #A5E49F;
+    border-radius: 4px;
+}
+.img{    
+    /* text-align: center; */
+    border-radius: 4px;
+    align-items: left;
+}
+
+
+.form-res{
+    text-align: center;
+
+    width: 30rem;
+    height: auto;
+
+    background: #24303c;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color:white;
+}
+
+.Tittle{
+    color: #A5E49F;
+    font-size:xx-large;
+}
+.Box{
+    text-align: center;
+    border-radius: 5px;
+    background-color: #E6E5E3;
+    /* width: 20rem; */
+    height: 2rem;
+    font-size:x-large;
+}
+
+.Bttn{
+    font-size:large;
+    font-family: 'calibri';
+    text-transform: uppercase;
+    width: 7rem;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    border-color: #A5E49F;
+    color:#24303c;
+    background-color: #A5E49F;
+
+}
+.word{
+    color:#E6E5E3;
+    font-size:x-large;
+    
+}

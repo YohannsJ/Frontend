@@ -1,0 +1,74 @@
+.box{
+    min-width: 20 px;
+    width: 28.5rem;
+    color:#212529;
+    font-family: "Calibri";
+    /* background-color: aquamarine; */
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.des{
+    background-color: #24303c;
+
+}
+
+.description{
+    background-color: #e6e5e3;
+    color:#212529;
+    min-width: 28.5rem;
+    min-height: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.form-res{
+    text-align: center;
+
+    width: 30rem;
+    height: auto;
+
+    background: #24303c;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color:white;
+}
+
+.Tittle{
+    color: #A5E49F;
+    font-size:xx-large;
+}
+.Box{
+    text-align: center;
+    border-radius: 5px;
+    background-color: #E6E5E3;
+    /* width: 20rem; */
+    height: 2rem;
+    font-size:x-large;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.Bttn{
+    font-size:large;
+    font-family: 'calibri';
+    text-transform: uppercase;
+    width: 7rem;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    border-color: #A5E49F;
+    color:#24303c;
+    background-color: #A5E49F;
+
+}
+.word{
+    color:#E6E5E3;
+    font-size:x-large;
+    
+}
+
